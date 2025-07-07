@@ -1,4 +1,4 @@
-# LAB05 template for ELT73A course 
+# Projeto Final
 ## Git commands
 How to config git
 ```bash
@@ -15,7 +15,7 @@ git config list --show-origin
 ```
 How to commit updates
 ```bash
-cd LAB05
+cd PROJETO_FINAL
 git status
 git add .
 git commit -m "My message for this commit!"
@@ -23,8 +23,6 @@ git push
 git log
 ```
 
-## LAB steps
-Generate code from last LAB
 ```bash
 LoadMX TIM2EXTI0 TIM2EXTI0.txt Y
 ```
